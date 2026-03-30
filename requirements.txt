@@ -1,0 +1,7 @@
+anthropic
+msal
+requests
+python-dotenv
+flask
+PyPDF2
+python-docx
